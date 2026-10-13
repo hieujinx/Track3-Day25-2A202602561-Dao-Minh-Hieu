@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Đào Minh Hiếu — **MSV:** `2A202602561`  **Commit:** _chờ tạo commit nộp bài_  **Điểm tự động:** 84/88 điểm đã kiểm chứng công khai
+**Họ tên / nhóm:** Đào Minh Hiếu — **MSV:** `2A202602561`  **Commit:** `86ea317`  **Điểm tự động:** 84/88 điểm đã kiểm chứng công khai
 
 > `make grade` đạt toàn bộ 84 điểm có thể chấm trong repo. Bốn điểm còn lại dùng bộ SLO ẩn của giảng viên. Các số dưới đây dùng seed 25; kiểm tra bổ sung với seed 25, 26, 27 đều PASS.
 
